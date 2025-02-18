@@ -1,2 +1,2 @@
 # Treasure-Hunter-Game
-its more like a smilaiton
+its more like a smilation
